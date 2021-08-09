@@ -1,0 +1,3 @@
+### Info
+
+This project was only created so that I could use the laravel command tools.  I was too lazy to sort out just writing a script and instead just used all the classes that laravel gives.  BookModo.php allows you to book a large number of repetive bookings with the coop car share service.  My use case was that I need the car every day for a few hours and I didn't want anyone else to book it so I prebooked it starting Sept 8th and going until mid December.  
